@@ -1,5 +1,36 @@
+
+
+spring:
+  profiles:
+    active: cluster1
+
+---
+#集群1配置
+spring:
+  profiles: cluster1
+
 server:
   port: 3000
+
+
+---
+#集群2配置
+spring:
+  profiles: cluster2
+
+server:
+  port: 3001
+
+---
+#集群3配置
+spring:
+  profiles: cluster3
+
+server:
+  port: 3002
+
+
+
 
 
 spring:
