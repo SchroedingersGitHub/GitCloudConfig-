@@ -1,3 +1,2 @@
 # GitCloudConfig-
-GitCloudConfig 个发vvcvcccv
-是萨阿啊阿啊阿啊说
+Git不好不好不好接不接
